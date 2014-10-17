@@ -1,0 +1,9 @@
+{
+    "id" : "test",
+    "niche_breadth" : [[6.8924999, 18.8924999], [161.7290039, 311.7290039]],
+    "dispersal_ability" : 1,
+    "dispersal_speed" : 500,
+    "dispersal_method" : 2,
+    "number_of_path" : -1,
+    "initial_seeds" : [[56.3452, 43.5511]]
+}
