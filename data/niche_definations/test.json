@@ -5,5 +5,6 @@
     "dispersal_speed" : 500,
     "dispersal_method" : 2,
     "number_of_path" : -1,
+    "speciation_years" : 10000,
     "initial_seeds" : [[56.3452, 43.5511]]
 }
