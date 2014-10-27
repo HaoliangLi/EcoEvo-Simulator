@@ -1,6 +1,6 @@
 {
-    "id" : "test",
-    "niche_breadth" : [[6.8924999, 18.8924999], [161.7290039, 311.7290039]],
+    "id" : 1,
+    "niche_breadth" : [[6892.4999, 18892.4999], [161729.0039, 311729.0039]],
     "dispersal_ability" : 1,
     "dispersal_speed" : 500,
     "dispersal_method" : 2,
