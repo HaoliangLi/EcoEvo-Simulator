@@ -1,6 +1,6 @@
 {
-    "glacial_path" : "/home/qiaohj/workspace/NicheBreadth/data/environment_layers/bio_var_CCSM_21k_global_bio12.tif",
-    "interglacial_path" : "/home/qiaohj/workspace/NicheBreadth/data/environment_layers/bio_var_CCSM_6k_global_bio12.tif",
+    "glacial_path" : "/home/huijieqiao/workspace/NicheBreadth/data/environment_layers/bio_var_CCSM_21k_global_bio12.tif",
+    "interglacial_path" : "/home/huijieqiao/workspace/NicheBreadth/data/environment_layers/bio_var_CCSM_6k_global_bio12.tif",
     "burn_in_years" : 50000,
     "part_1_years" : 45000,
     "plateau_1_years": 5000,
