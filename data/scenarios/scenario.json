@@ -1,6 +1,6 @@
 {
     "environments" : ["curve_l_1", "curve_l_12"],
-    "total_years" : 500000,
+    "total_years" : 10000,
     "mask" : "/home/huijieqiao/workspace/NicheBreadth/data/environment_layers/mask.tif",
     "species" : ["large"]
 }
