@@ -1,0 +1,7 @@
+{
+    "environments" : ["/home/huijieqiao/NB_NEW/Environments/Precipitation/", "/home/huijieqiao/NB_NEW/Environments/Temperature/"],
+    "total_years" : 130000,
+    "mask" : "/home/huijieqiao/NB_NEW/Environments/mask.tif",
+    "species" : ["seed_1.dispersal_good.nb_large"],
+    "burn_in_year" : 10000
+}

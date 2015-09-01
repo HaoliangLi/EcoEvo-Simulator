@@ -1,0 +1,12 @@
+{
+	"id" : 535,
+	"niche_breadth" : [[1320, 17320], [0, 175342]],
+	"dispersal_ability" : [0.728904942,0.948446891,0.997433321,0.9998722120000001,0.9999936370000001,0.9999996824100001,0.9999999833930001,0.9999999983781002,0.9999999991241622,0.9999999991613064],
+	"dispersal_speed" : 100,
+	"dispersal_method" : 2,
+	"number_of_path" : -1,
+	"speciation_years" : 10000,
+	"species_extinction_threshold" : 0.05,
+	"group_extinction_threshold" : 0,
+	"initial_seeds" : [[67.200000, 44.701389]]
+}
