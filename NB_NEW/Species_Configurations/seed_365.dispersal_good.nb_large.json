@@ -6,7 +6,8 @@
 	"dispersal_method" : 2,
 	"number_of_path" : -1,
 	"speciation_years" : 10000,
-	"species_extinction_threshold" : 0.05,
+	"species_extinction_threshold" : 1,
+	"species_extinction_time_steps" : 3,
 	"group_extinction_threshold" : 0,
 	"initial_seeds" : [[47.200000, 28.701389]]
 }
