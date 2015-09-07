@@ -1,7 +1,7 @@
 {
     "environments" : ["/home/huijieqiao/workspace/NicheBreadth/NB_NEW/Environments/Temperature", "/home/huijieqiao/workspace/NicheBreadth/NB_NEW/Environments/Precipitation"],
-    "total_years" : 130000,
+    "total_years" : 125000,
     "mask" : "/home/huijieqiao/workspace/NicheBreadth/NB_NEW/Environments/mask.tif",
-    "species" : ["seed_365.dispersal_good.nb_small"],
-    "burn_in_year" : 10000
+    "species" : ["seed_1.dispersal_good.nb_large"],
+    "burn_in_year" : 5000
 }
