@@ -1,4 +1,4 @@
-src/main.d: ../src/main.cpp /usr/include/gdal/gdal.h \
+src/main.o: ../src/main.cpp /usr/include/gdal/gdal.h \
  /usr/include/gdal/gdal_version.h /usr/include/gdal/cpl_port.h \
  /usr/include/gdal/cpl_config.h /usr/include/gdal/cpl_config_extras.h \
  /usr/include/gdal/cpl_error.h /usr/include/gdal/cpl_progress.h \

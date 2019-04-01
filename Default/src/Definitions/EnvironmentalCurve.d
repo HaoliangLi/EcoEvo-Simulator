@@ -1,4 +1,4 @@
-src/Definitions/EnvironmentalCurve.d: \
+src/Definitions/EnvironmentalCurve.o: \
  ../src/Definitions/EnvironmentalCurve.cpp \
  ../src/Definitions/EnvironmentalCurve.h \
  ../src/Definitions/../ExpressionParser/parser.h \

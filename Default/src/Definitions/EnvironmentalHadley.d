@@ -1,4 +1,4 @@
-src/Definitions/EnvironmentalHadley.d: \
+src/Definitions/EnvironmentalHadley.o: \
  ../src/Definitions/EnvironmentalHadley.cpp \
  ../src/Definitions/EnvironmentalHadley.h \
  ../src/Definitions/../ExpressionParser/parser.h \

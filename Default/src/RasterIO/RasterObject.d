@@ -1,4 +1,4 @@
-src/RasterIO/RasterObject.d: ../src/RasterIO/RasterObject.cpp \
+src/RasterIO/RasterObject.o: ../src/RasterIO/RasterObject.cpp \
  ../src/RasterIO/RasterObject.h /usr/include/gdal/gdal.h \
  /usr/include/gdal/gdal_version.h /usr/include/gdal/cpl_port.h \
  /usr/include/gdal/cpl_config.h /usr/include/gdal/cpl_config_extras.h \

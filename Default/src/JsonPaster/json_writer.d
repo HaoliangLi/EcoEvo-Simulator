@@ -1,4 +1,4 @@
-src/JsonPaster/json_writer.d: ../src/JsonPaster/json_writer.cpp \
+src/JsonPaster/json_writer.o: ../src/JsonPaster/json_writer.cpp \
  ../src/JsonPaster/include/json/writer.h \
  ../src/JsonPaster/include/json/value.h \
  ../src/JsonPaster/include/json/forwards.h \

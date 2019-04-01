@@ -1,4 +1,4 @@
-src/Definitions/IndividualOrganism.d: \
+src/Definitions/IndividualOrganism.o: \
  ../src/Definitions/IndividualOrganism.cpp \
  ../src/Definitions/IndividualOrganism.h \
  ../src/Definitions/SpeciesObject.h \

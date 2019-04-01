@@ -1,4 +1,4 @@
-src/Definitions/Scenario.d: ../src/Definitions/Scenario.cpp \
+src/Definitions/Scenario.o: ../src/Definitions/Scenario.cpp \
  ../src/Definitions/Scenario.h \
  ../src/Definitions/../Universal/CommonFun.h /usr/include/gdal/gdal.h \
  /usr/include/gdal/gdal_version.h /usr/include/gdal/cpl_port.h \

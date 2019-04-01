@@ -1,4 +1,4 @@
-src/Definitions/SpeciesObject.d: ../src/Definitions/SpeciesObject.cpp \
+src/Definitions/SpeciesObject.o: ../src/Definitions/SpeciesObject.cpp \
  ../src/Definitions/SpeciesObject.h \
  ../src/Definitions/../JsonPaster/include/json/json.h \
  ../src/Definitions/../JsonPaster/include/json/autolink.h \

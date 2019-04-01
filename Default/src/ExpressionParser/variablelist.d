@@ -1,4 +1,4 @@
-src/ExpressionParser/variablelist.d: \
+src/ExpressionParser/variablelist.o: \
  ../src/ExpressionParser/variablelist.cpp \
  ../src/ExpressionParser/variablelist.h \
  ../src/ExpressionParser/constants.h

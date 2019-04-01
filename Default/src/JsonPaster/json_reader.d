@@ -1,4 +1,4 @@
-src/JsonPaster/json_reader.d: ../src/JsonPaster/json_reader.cpp \
+src/JsonPaster/json_reader.o: ../src/JsonPaster/json_reader.cpp \
  ../src/JsonPaster/include/json/assertions.h \
  ../src/JsonPaster/include/json/../../include/json/config.h \
  ../src/JsonPaster/include/json/reader.h \

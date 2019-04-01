@@ -23,10 +23,10 @@ C_DEPS :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
-src \
-src/Universal \
-src/RasterIO \
-src/JsonPaster \
-src/ExpressionParser \
 src/Definitions \
+src/ExpressionParser \
+src/JsonPaster \
+src/RasterIO \
+src/Universal \
+src \
 

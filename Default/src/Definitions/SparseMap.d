@@ -1,4 +1,4 @@
-src/Definitions/SparseMap.d: ../src/Definitions/SparseMap.cpp \
+src/Definitions/SparseMap.o: ../src/Definitions/SparseMap.cpp \
  ../src/Definitions/SparseMap.h \
  ../src/Definitions/../RasterIO/RasterObject.h /usr/include/gdal/gdal.h \
  /usr/include/gdal/gdal_version.h /usr/include/gdal/cpl_port.h \

@@ -1,4 +1,4 @@
-src/JsonPaster/json_value.d: ../src/JsonPaster/json_value.cpp \
+src/JsonPaster/json_value.o: ../src/JsonPaster/json_value.cpp \
  ../src/JsonPaster/include/json/assertions.h \
  ../src/JsonPaster/include/json/../../include/json/config.h \
  ../src/JsonPaster/include/json/value.h \
